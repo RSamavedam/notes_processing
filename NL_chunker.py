@@ -4,6 +4,7 @@ import nltk
 #create a wider array of possible sentences, like implications
 # add in infinitive phrases
 #add a DS that has a P / G / infinitive after it
+#this is a test comment to check that I can commit from Google Colab
 import sys
 def get_tree():
     sent = "Nixon, who was very corrupt, was impeached after many hearings on the house floor"
